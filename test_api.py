@@ -1,6 +1,5 @@
 import atheris
 import sys
-import json
 
 with atheris.instrument_imports():  # instrument_imports(include=[], exclude=[])
     import api_utils  # Instrumentation de api_utils 
